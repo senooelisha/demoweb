@@ -206,6 +206,10 @@ img.gaia-argoui-app-titlebar-icon {
   border-radius: 5px;
 }
 
+.gaia-argoui-app-theme-green .gaia-argoui-app-titlebar {
+    background-color: black;
+}
+
 /*
 .gaia-argoui-app-titlebar-icon {
   margin-right: 20px;
