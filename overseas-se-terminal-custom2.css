@@ -1,0 +1,231 @@
+* {
+  font-family: 'ubuntu';
+}
+body{
+  background-color: #ffffffba;
+}
+.gaia-header-header {
+  background-color: red;
+}
+.recordlist-header-cell-gaia {
+  font-weight: bold;
+} 
+.recordlist-header-cell-gaia:hover{
+color: #435237;
+background-color: #ffffffba;
+} 
+.row-gaia {
+  margin-left: 10px;
+  margin-bottom: 3px;
+  font-weight: bold;
+}
+img.gaia-argoui-app-titlebar-icon {
+  border-radius: 50%;
+  margin-left: 200px;
+}
+.gaia-argoui-app-titlebar.gaia-argoui-app-titlebar-has-icon {
+	font-weight: bold;
+  font-size: x-large;
+}
+.row-gaia .control-gaia .control-group-gaia {
+  background-color: #e9fadc;
+	border-radius: 5px;
+	margin: 10px;
+  padding-bottom: 5px;
+}
+.control-label-gaia{
+	background-color:  #E9FADC;
+}
+.control-group-gaia {
+  border-color: #76925F;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 5px;
+	box-shadow: 1px 0px 8px 0px #435237;
+ 	background-color:  #D5EAC3
+   ;
+}
+.row-gaia .control-gaia.control-label-field-gaia {
+  background-color: #E9FADC;
+}
+#record-gaia {
+  background-color: #ffffff;
+}
+.subtable-row-label-gaia {
+  background-color: #E9FADC;
+}
+.subtable-label-gaia {
+    background-color: #A2BF8B;
+    border: solid 1PX BLACK;
+    border-radius: 3PX;
+    height: 40px;
+    color: #000;
+    box-sizing: border-box;
+    text-align: left;
+    font-weight: bolder;
+    font-size: 12px;
+    white-space: nowrap;
+}
+.kuc-button__button--alert {
+    border: 0 none;
+    background-color: #E9FADC;
+    box-shadow: 1px 1px 1px #ffffff inset;
+    color: #000000;
+}
+.showlayout-gaia .row-gaia .control-value-gaia {
+  border-color: #76925F;
+  border-width: 2px;
+  border-style: solid;
+  background-color: #eee; 
+  word-wrap: break-word;
+  border-radius: 5px;
+  color: black;
+  font-family: revert;
+  margin: auto; 
+}
+.showlayout-gaia {
+  background-color:  #E9FADCad;
+  max-width: min-content;
+  margin: auto;
+  padding: 50px;
+  box-shadow: 4px 6px 20px 2px #80808069;
+}
+.editablelayout-gaia {
+  background-color:  #E9FADCad;
+  margin: auto;
+  max-width: min-content;
+  padding: 50px;
+  box-shadow: 4px 6px 20px 2px #80808069;
+}
+.gaia-app-statusbar-actionmenu-wrapper .gaia-app-statusbar-action {
+  min-width: 80px;
+  max-width: 288px;
+  overflow: hidden;
+  height: 40px;
+  margin: 3px 8px 3px 0;
+  vertical-align: middle;
+  display: inline-block;
+  border-radius: 30px;
+  border-color: #E9FADC;
+  border-style: solid;
+  color: black;
+}
+.gaia-app-statusbar-actionmenu-wrapper .gaia-app-statusbar-action-label {
+  background-color: #E9FADC;
+	min-width: 80px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 14px;
+  color: black;
+}
+.row-gaia .control-gaia.control-group-gaia {
+  background-color: #e9fadc;
+}
+.gaia-header-toolbar .gaia-header-img {
+  background: linear-gradient(to bottom, #ffcc00 24%, #E9FADC54 100%);
+}
+.gaia-header-toolbar-navigation {
+  padding-right: 32px;
+  background: linear-gradient(to bottom, #ffcc00 24%, #E9FADC54 100%);
+}
+.gaia-header-toolbar {
+  background-color: #E9FADCad;
+  z-index: 10;
+}
+
+.gaia-argoui-app-theme-green .gaia-argoui-app-titlebar {
+  background-color: #E9FADC96;
+}
+
+.gaia-argoui-app-show-toolbar {
+  border-bottom: 3px solid #E9FADC;
+}
+.gaia-argoui-app-viewtoggle {
+  background-color: #3498db;
+  border: 4px solid #3498db;
+}
+.gaia-argoui-app-viewtoggle-views .gaia-argoui-select-label {
+  color: #3498db;
+  font-weight: bold;
+}
+.gaia-argoui-app-titlebar {
+  background-color: #ffffff;
+  border-bottom: solid #E9FADC;
+}
+.listView-control-gaia, .recordlist-gaia {
+	font-weight: bold;
+	color: #3498db;
+}
+/* Printing button style */
+.kuc-btn.normal {
+  background-color: #E9FADC;
+  border: 3px solid #ffffff;
+  border-radius: 40px;
+  box-shadow: -2px 0px 4px 2px #E9FADC;
+  box-sizing: border-box;
+  color: #060606;
+  display: block;
+  height: 48px;
+  line-height: 48px;
+  min-width: 163px;
+  outline: none;
+  padding: 0 16px;
+  text-align: center;
+  font-family: cursive;
+  font-weight: normal;
+}
+.kuc-btn.normal:hover {
+  background-color: #E9FADC;
+	border: 3px solid black;
+	border-radius: 40px;
+  box-shadow: -2px 0px 4px 2px rgb(255, 204, 0);
+  box-sizing: border-box;
+  color: #060606;
+  display: block;
+  height: 48px;
+  line-height: 48px;
+  min-width: 163px;
+  outline: none;
+  padding: 0 16px;
+  text-align: center;
+  font-family: cursive;
+  font-weight: bold;
+}
+.print-header-gaia {
+  background-color: #E9FADC;
+    border: 3px solid white;
+    box-shadow: 5px 3px 17px 2px #435237;
+    color: #1c5404;
+    border-radius: 20px;
+    font-family: cursive;
+}
+.hintModal .hintModal_container {
+  background-color: #435237;
+  color: white;
+  border: solid #76925F;
+  border-radius: 5px;
+}
+
+/*
+.gaia-argoui-app-titlebar-icon {
+  margin-right: 20px;
+  width: 48px;
+  height: 48px;
+	-webkit-animation: spin 50s linear infinite;
+	-moz-animation: spin 50s linear infinite;
+	animation: spin 50s linear infinite;
+}
+
+ .gaia-argoui-app-titlebar-icon:hover{
+	-webkit-transform: rotate(360deg) translate(0);}
+
+@-webkit-keyframes spin{
+  100%{-webkit-transform: rotate(360deg);}
+}
+@-moz-keyframes spin{
+  100%{-webkit-transform: rotate(360deg);}
+}
+@keyframes spin{
+  100%{-webkit-transform: rotate(360deg);}
+}
+*/

@@ -1,0 +1,31 @@
+/* Change the background color of the app header */
+.gaia-header {
+  background-color: #850606!important;
+}
+
+/* Change the font size of the app title */
+.gaia-header-title {
+  font-size: 24px;
+}
+
+/* Change the font color of the app menu items */
+.gaia-navigation a {
+  color: #333;
+}
+
+/* Change the background color of the record list */
+.gaia-argoui-list-table {
+  background-color: #05039c!important;
+}
+
+/* Change the font size and color of the record fields */
+.gaia-argoui-field {
+  font-size: 16px;
+  color: #333;
+}
+
+/* Change the background color and font color of the submit button */
+.gaia-ui-actionmenu-submit {
+  background-color: #5c0843!important;
+  color: #fff;
+}

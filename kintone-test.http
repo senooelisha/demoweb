@@ -1,0 +1,6 @@
+@domain = smartexchange.cybozu.com
+@appId = 176
+@apiToken = hBTd9nwPPPiiehx3CnPtUuG4byUJvTUmy8j2ZIAZ
+
+GET https://{{domain}}/k/v1/records.json?app={{appId}}
+X-Cybozu-API-Token: {{apiToken}}
